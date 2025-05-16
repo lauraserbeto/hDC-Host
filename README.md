@@ -48,4 +48,4 @@ Clone o repositório e abra o arquivo `index.html` em seu navegador:
 
 ```bash
 git clone https://github.com/lauraserbeto/hDC-Host.git
-cd seu-repositorio
+cd hDC-Host
