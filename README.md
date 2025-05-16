@@ -8,7 +8,7 @@
 
 ---
 
-![Tela Inicial do Formulário](img/tela-principal.png) 
+![Tela Inicial do hDC Host](img/tela-principal) 
 Você pode ver o projeto em funcionamento [aqui](https://hdc-host-lovat.vercel.app/).
 ---
 
