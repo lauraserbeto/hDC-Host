@@ -8,7 +8,7 @@
 
 ---
 
-![Tela Inicial do hDC Host](img/tela-principal) 
+![Tela Inicial do hDC Host](img/tela-principal.png) 
 Você pode ver o projeto em funcionamento [aqui](https://hdc-host-lovat.vercel.app/).
 ---
 
