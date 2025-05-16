@@ -8,6 +8,10 @@
 
 ---
 
+![Tela Inicial do Formulário](img/tela-principal.png) 
+Você pode ver o projeto em funcionamento [aqui](https://hdc-host-lovat.vercel.app/).
+---
+
 ## 📋 Descrição
 
 Este é um projeto de página web responsiva para uma empresa fictícia de hospedagem de sites, chamada **HDC Host**. O site apresenta os planos de hospedagem, formulário de contato e uma interface visual moderna.
