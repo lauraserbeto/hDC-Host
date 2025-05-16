@@ -4,7 +4,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![Responsive](https://img.shields.io/badge/Responsivo-Sim-2cc76a?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/Status-Finalizado-2cc76a?style=for-the-badge)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
 
