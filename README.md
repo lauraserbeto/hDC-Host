@@ -47,5 +47,5 @@ Este é um projeto de página web responsiva para uma empresa fictícia de hospe
 Clone o repositório e abra o arquivo `index.html` em seu navegador:
 
 ```bash
-git clone https://github.com/lauraserbeto/hDC_Host.git
+git clone https://github.com/lauraserbeto/hDC-Host.git
 cd seu-repositorio
